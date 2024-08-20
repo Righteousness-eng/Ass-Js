@@ -26,7 +26,6 @@ console.log("Symbols:", result.symbols);
 
 
 
-
 function sortAndFilterNumbers(arr) {
     const numbers = arr.filter((elements) => typeof elements === 'number');
 
@@ -42,7 +41,6 @@ function sortAndFilterNumbers(arr) {
   console.log(sortedNumbers);
   
   
-
 
 function generateStarPattern(maxNoOfStars) {
     for (let i = 1; i <= maxNoOfStars; i++) {
